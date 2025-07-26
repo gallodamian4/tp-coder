@@ -1,4 +1,4 @@
-ClienteID;Edad;GeneroID;Ingresos;FrecuenciaID;Frecuencia;TiposCocinaID;TiposCocina;MomentoDelDiaID;MomentoDelDia;CantidadPorGrupo;OcasionID;Ocasión;Fidelidad;Fecha;GastoProm;InTakeAwayID;ReservaOnline;DeliveryOrden;TiempoEspera;RatingServicio;RatingComida;RatingAmbiente;RatingAlto
+ClienteID;Edad;GeneroID;Ingresos;FrecuenciaID;Frecuencia;TiposCocinaID;TiposCocina;MomentoDelDiaID;MomentoDelDia;CantidadPorGrupo;OcasionID;OcasiÃ³n;Fidelidad;Fecha;GastoProm;InTakeAwayID;ReservaOnline;DeliveryOrden;TiempoEspera;RatingServicio;RatingComida;RatingAmbiente;RatingAlto
 1;35;0;83380;2;Weekly;2;Chinese;0;Breakfast;3;0;Business;1;01/07/23;28;0;0;1;44;2;5;4;0
 2;19;0;43623;0;Rarely;0;American;2;Dinner;1;1;Casual;0;01/07/23;115;1;0;0;58;5;5;3;0
 3;41;1;83737;2;Weekly;0;American;2;Dinner;6;2;Celebration;0;01/07/23;107;1;0;1;49;3;4;5;0
